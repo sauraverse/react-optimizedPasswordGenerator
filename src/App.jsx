@@ -107,7 +107,7 @@ function App() {
           </button>
         </div>
       </div>
-      <p className="font-bold text-lg text-center">Visit developer @ <a href="https://sauraverse.com" target="_blank" className="underline">sauraverse.com</a></p>
+      <p className="text-lg text-center">Visit developer @ <a href="https://sauraverse.com" target="_blank" className="underline">sauraverse.com</a></p>
     </div>
   )
 }
